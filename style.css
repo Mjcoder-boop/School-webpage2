@@ -1,0 +1,32 @@
+#Map {
+    background-image: linear-gradient(yellow, orange, red);
+    height: 500px;
+}
+
+#map {
+    height: 400px;
+}
+#start {
+   background-color: aquamarine;
+   border-style: dashed ; 
+    border-color: chocolate;
+}
+#campus_life{
+  background-image: linear-gradient(blue,green, red, purple);  
+}
+h2{
+    text-decoration-color: aqua;
+    
+     
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+#Acheivements{
+    background-image: linear-gradient(purple, aqua, blue);      
+}
